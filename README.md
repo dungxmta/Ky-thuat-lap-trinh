@@ -4,3 +4,4 @@
 - TH3. if-else
 - TH5. stack_queue
 - TH7. Stack_Queue
+- BT. <Nhanh-can> Nguoi-di-du-lich
